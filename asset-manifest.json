@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bilal-pucit/react-assignment-1/static/css/main.3f269471.css",
-    "main.js": "/bilal-pucit/react-assignment-1/static/js/main.e1a91020.js",
-    "index.html": "/bilal-pucit/react-assignment-1/index.html",
-    "main.3f269471.css.map": "/bilal-pucit/react-assignment-1/static/css/main.3f269471.css.map",
-    "main.e1a91020.js.map": "/bilal-pucit/react-assignment-1/static/js/main.e1a91020.js.map"
+    "main.css": "/react-assignment-1/static/css/main.3f269471.css",
+    "main.js": "/react-assignment-1/static/js/main.e1a91020.js",
+    "index.html": "/react-assignment-1/index.html",
+    "main.3f269471.css.map": "/react-assignment-1/static/css/main.3f269471.css.map",
+    "main.e1a91020.js.map": "/react-assignment-1/static/js/main.e1a91020.js.map"
   },
   "entrypoints": [
     "static/css/main.3f269471.css",
